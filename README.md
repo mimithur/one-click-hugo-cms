@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0eef9cff-1783-481a-a106-ca9be56758c8/deploy-status)](https://app.netlify.com/sites/silvercommpanama/deploys)
+
 # Hugo template for Decap CMS with Netlify Identity
 
 This is a small business template built with [Hugo](https://gohugo.io) and [Decap CMS](https://github.com/decaporg/decap-cms), designed and developed by [Darin Dimitroff](https://twitter.com/deezel), [spacefarm.digital](https://www.spacefarm.digital).
