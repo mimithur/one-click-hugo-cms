@@ -3,7 +3,7 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "ROSEMARIE"
+    text: "MIMI"
   - heading: Working hours
     text: "LUNES – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
