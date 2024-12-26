@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: "MIMI"
   - heading: Working hours
-    text: "LUNES – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "MARTES – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
 
 En español We’d love to get in touch with you and hear your ideas and
