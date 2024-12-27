@@ -3,7 +3,7 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "MIMI2"
+    text: "MIMI23"
   - heading: Working hours
     text: "MARTES – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
