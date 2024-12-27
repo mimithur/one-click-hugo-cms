@@ -10,7 +10,7 @@ describe("empty spec", () => {
   it("navigates to the product page", () => {
     cy.get('a[href="/products"]').eq(0).click();
     cy.url().should("include", "/products");
-    cy.get("h1").contains(/Our Coffee/i);
+    cy.get("h1").contains(/Our Coffe/i);
   });
 
   it("navigates to the values page", () => {
