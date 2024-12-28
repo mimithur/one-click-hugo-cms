@@ -3937,6 +3937,14 @@ decap-cms-ui-default@^3.0.0:
     react-toggled "^1.1.2"
     react-transition-group "^4.4.5"
 
+decap-cms-ui-default@^3.1.4:
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/decap-cms-ui-default/-/decap-cms-ui-default-3.1.4.tgz#c86e7d0dd736cde494d2b162b53d9a7e95752013"
+  integrity sha512-C034TIwUU8X+JNR6SmFhyWxHYzCArMONVMXoTaU6Y4SQr3appR+bwNesb9s0Q3SMmehTRyTMrIZ2lAd4ppymqw==
+  dependencies:
+    react-aria-menubutton "^7.0.0"
+    react-transition-group "^4.4.5"
+
 decap-cms-widget-boolean@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/decap-cms-widget-boolean/-/decap-cms-widget-boolean-3.0.0.tgz#fa6b34721448931bfd1849556cd910a12e26979b"
